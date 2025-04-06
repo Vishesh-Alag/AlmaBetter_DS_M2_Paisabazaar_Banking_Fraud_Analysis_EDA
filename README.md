@@ -70,6 +70,8 @@ This processed dataset is saved as a new CSV file.
 
 * \[Notebook/Script Name]: (e.g., `Paisabazaar_Banking_Fraud_Analysis_EDA_Submission.ipynb`) - Contains the Python code for the EDA.
 * `README.md`: This file.
+*  `dataset.zip`: This Zip file contains all the three datasets, main dataset and the dataset on which perfromed EDA also. can download it and have a look on datasets.
+
 
 ## Libraries Used
 
